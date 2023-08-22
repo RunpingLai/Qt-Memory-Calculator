@@ -1,6 +1,5 @@
 # Memory Consumption Calculator
-Author : Runping Lai <rlai@juniper.net>\
-SRX Platform Team
+Author : Runping Lai\
 
 ## Objective:
 The primary purpose of the PFE-Memory-Calculator is to assist in determining whether the total memory size is adequate to support the required scale number during the early design stages of PFE memory allocation. Therefore, developed an app using **Qt**.
@@ -71,4 +70,3 @@ pyinstaller --onefile --name mem_calculator src/app.py
 ## TODO
 1. Adding a setting page that supports user change calculate formula.
 
-# Qt-Memory-Calculator
