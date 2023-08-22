@@ -1,0 +1,3 @@
+([('mem_calculator',
+   '/Users/rlai/Documents/Development/Pfe-Mem-Calculator/dist/mem_calculator',
+   'EXECUTABLE')],)
